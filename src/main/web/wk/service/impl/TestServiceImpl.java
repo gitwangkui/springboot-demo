@@ -21,7 +21,7 @@ public class TestServiceImpl implements TestService {
         return i;
     }
     
-    public String getString(String aa){
+    public String getStringaa(String aa){
         return "aa";
     }
 
